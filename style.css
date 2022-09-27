@@ -4,7 +4,6 @@
     box-sizing: border-box;
 
 }
-
 .container {
     width: 1600px;
     display: flex;
@@ -21,84 +20,68 @@
 h1, h2,h3 {
     color: rgb(180, 140, 64);
 }
-
 .img_person img {
     margin-top: 50px;
     width: 500px;
     height:600px;
 }
-
 li {
     /* list-style-type: none; */
 }
-
 .right_side {
     width: 1000px;
     background: rgb(232, 226, 226);
     padding-left: 50px;
 }
-
 .skills {
     width: 500px;
     display: flex;
     flex-direction: column;
     margin-top: 100px;
 }
-
 .skills ul {
     margin-top: 30px;
     margin-left: 20px;
 }
-
 .contacts {
     width: 500px;
     display: flex;
     flex-direction: column;
     margin-top: 100px;
 }
-
 .contacts ul {
     margin-top: 30px;
     margin-left: 20px;
 }
-
 .contacts li {
     list-style-type: none;
     margin-bottom: 5px;
 }
-
 .name {
     margin-top: 150px;
 }
-
 .name h1 {
     font-size: 60px;
 }
-
 .name h2 {
     color: gray;
     margin-top: 10px;
 }
-
 .my_story {
     margin-top: 50px;
 }
-
 .experience {
     margin-top: 50px;
     margin-bottom: 50px;
 }
-
 .experience h2 {
     margin-bottom: 10px;
 }
-
 .experience h4 {
     font-size: 24px;
     margin-bottom: 10px;
     color: rgb(79, 79, 251);
 }
-
 .experience ul {
     margin-top: 10px;
     margin-bottom: 10px;
