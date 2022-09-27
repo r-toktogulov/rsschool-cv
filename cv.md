@@ -21,7 +21,7 @@ A novice developer who wants to quickly develop in an interesting team and in a 
 - HTML/CSS (Bootstrap, BEM methodology)
 - JavaScript (basics)
 - NodeJS, React,
-- Figma, Adobe PS,
+- Figma
 - Git, GitHub
 
 ***
